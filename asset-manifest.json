@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sentistock/static/css/main.55b3de42.css",
+    "main.js": "/sentistock/static/js/main.7d9f196b.js",
+    "static/js/787.ee41a2c1.chunk.js": "/sentistock/static/js/787.ee41a2c1.chunk.js",
+    "index.html": "/sentistock/index.html",
+    "main.55b3de42.css.map": "/sentistock/static/css/main.55b3de42.css.map",
+    "main.7d9f196b.js.map": "/sentistock/static/js/main.7d9f196b.js.map",
+    "787.ee41a2c1.chunk.js.map": "/sentistock/static/js/787.ee41a2c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b3de42.css",
+    "static/js/main.7d9f196b.js"
+  ]
+}
