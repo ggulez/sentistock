@@ -10,8 +10,8 @@ function App({ signOut, user }) {
   return (
     <>
       <h1>Hello {user.username}</h1>
-      <button onClick={signOut}>Sign out</button>
-      <h2>Mister Bombastic</h2>
+      <h2><b>Mister Bombastic</b></h2>
+      <button onClick={signOut}>SIGN OUT</button>
     </>
   );
 }
