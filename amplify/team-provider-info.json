@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sentistock-dev-214407-authRole",
+      "UnauthRoleArn": "arn:aws:iam::936834694162:role/amplify-sentistock-dev-214407-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::936834694162:role/amplify-sentistock-dev-214407-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-sentistock-dev-214407-deployment",
+      "UnauthRoleName": "amplify-sentistock-dev-214407-unauthRole",
+      "StackName": "amplify-sentistock-dev-214407",
+      "StackId": "arn:aws:cloudformation:us-east-1:936834694162:stack/amplify-sentistock-dev-214407/ab8e4800-e30a-11ed-8d70-0ab8d23d9cf5",
+      "AmplifyAppId": "d2k60u83r6l3n2"
+    },
+    "categories": {
+      "function": {
+        "sentilambda": {
+          "deploymentBucketName": "amplify-sentistock-dev-214407-deployment",
+          "s3Key": "amplify-builds/sentilambda-454b4c704b624f2b552b-build.zip"
+        }
+      },
+      "auth": {
+        "sentistock6dbd673b": {}
+      },
+      "api": {
+        "api93c05415": {}
+      }
+    }
+  }
+}
